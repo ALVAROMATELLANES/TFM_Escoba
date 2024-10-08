@@ -54,8 +54,8 @@ TaskHandle_t escrituraTaskHandle = NULL;
 
 //const char* ssid = "Orange-5D6C";
 //const char* password = "fsz6mcnZ";
-const char* ssid = "Mate";
-const char* password = "minicrak6";
+const char* ssid = "********"; //Introducir Nombre de la red WiFi
+const char* password = "********";   //Intruducir Clave WiFi
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 3600;
 const int daylightOffset_sec = 3600;   //Poner a 3600 en horario de verano y 0 resto del año
